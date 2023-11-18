@@ -1,0 +1,21 @@
+body{
+    background-color: antiquewhite;
+}
+h1{
+    font-family: font-family: 'Lora', serif;
+}
+p{
+    font-family: 'Caveat', cursive;
+}
+.poster{
+    text-align: center;
+    font-size: x-large;
+    text-transform: capitalize;
+}
+#image{
+    height: 50%;
+    width: 50%;
+    margin-top: 15%;
+    margin-left: 10%;
+    border: 10px solid lightgrey;
+}
